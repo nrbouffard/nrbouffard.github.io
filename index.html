@@ -4,6 +4,7 @@
     templated.co @templatedco
     Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
 -->
+
 <html>
 	<head>
 		<title>Nichole Bouffard</title>
@@ -23,6 +24,41 @@
 		</noscript>
 		<!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
 		<!--[if lte IE 9]><link rel="stylesheet" href="css/ie/v9.css" /><![endif]-->
+	
+	    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+            a = s.createElement(o)
+                , m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+        ga('create', 'UA-70964501-1', 'auto');
+        ga('send', 'pageview');
+    </script>
+    <!-- Scrolling action! -->
+    <script>
+        $(function () {
+            $('a[href*=#]:not([href=#])').click(function () {
+                if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') && location.hostname == this.hostname) {
+                    var target = $(this.hash);
+                    target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
+                    if (target.length) {
+                        $('html,body').animate({
+                            scrollTop: target.offset().top
+                        }, 750);
+                        return false;
+                    }
+                }
+            });
+        });
+    </script>
+
+	
 	</head>
 	<body class="homepage">
 
@@ -39,11 +75,11 @@
 				<!-- Nav -->
 				<nav id="nav">
 					<ul>
-						<b><li class="active"><a href="index.html">Home</a></li></b>
-                				<b><li><a href="files/Bouffard_Nichole_CV_2017 .pdf" target="_blank">CV</a></li></b>
-						<b><li><a href="publications.html">Publications</a></li></b>
-						<b><li><a href="adventures.html">Adventures</a></li></b>
-						<b><li><a href="contact.html">Contact</a></li></b>
+						<li class="active"><a href="index.html">Home</a></li>
+                				<li><a href="files/Bouffard_Nichole_CV_2017 .pdf" target="_blank">CV</a></li>
+						<li><a href="publications.html">Publications</a></li>
+						<li><a href="adventures.html">Adventures</a></li>
+						<li><a href="contact.html">Contact</a></li>
 					</ul>
 				</nav>
 			</div>
