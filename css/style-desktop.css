@@ -99,7 +99,7 @@
 				letter-spacing: 1px;
 				text-decoration: none;
 				text-transform: uppercase;
-				font-weight: 200;
+				font-weight: 500;
 				font-size: 1em;
 				outline: 0;
 				color: rgba(255,255,255,.7);
@@ -157,7 +157,7 @@
 	#sidebar h2
 	{
 		display: block;
-		padding-bottom: 2em;
+		padding-bottom: 1em;
 		font-size: 1.4em;
 	}
 
