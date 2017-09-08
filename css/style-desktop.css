@@ -99,17 +99,13 @@
 				letter-spacing: 1px;
 				text-decoration: none;
 				text-transform: uppercase;
-				font-weight: 500;
+				font-weight: 700;
 				font-size: 1em;
 				outline: 0;
-				color: rgba(255,255,255,.7);
-			}
-
-
-			#nav > ul > li > a:hover
-			{
 				color: #FFF;
 			}
+
+
 
 			#nav li.active a
 			{
@@ -157,7 +153,7 @@
 	#sidebar h2
 	{
 		display: block;
-		padding-bottom: 1em;
+		padding-bottom: .4em;
 		font-size: 1.4em;
 	}
 
