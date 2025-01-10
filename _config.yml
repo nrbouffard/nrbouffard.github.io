@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Nichole Bouffard"
+title                    : "Nichole R. Bouffard"
 title_separator          : "-"
 name                     : &name "Nichole R. Bouffard, Ph.D."
 description              : &description "Postdoctoral Scholar"
@@ -26,7 +26,7 @@ author:
   pronouns         : "she/her"  
   bio              : "Postdoctoral Scholar"
   location         : "St. Louis, MO"
-  employer         : "Washington University in St. Louis"
+  employer         : "WashU"
   uri              : # URL
   email            : "bouffard@wustl.edu" 
 
