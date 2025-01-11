@@ -1,8 +1,8 @@
 ---
 title: "Transcranial magnetic stimulation to the angular gyrus modulates the temporal organization of the hippocampus and entorhinal cortex"
 collection: publications
-permalink: /publication/2023-Coughlan_Bouffard_ et_al_CerCor_2023
-date: 2023
+permalink: /publication/2023-10-04-Coughlan_Bouffard_ et_al_CerCor_2023
+date: 2023-10-04
 venue: 'Cerebral Cortex'
 paperurl: 'http://nrbouffard.github.io/files/Coughlan_Bouffard_ et_al_CerCor_2023.pdf'
 citation: 'Coughlan, G., Bouffard, N.R., Golestani, A., Thakral, P.P., Grady, C., Schacter, D.L., Moscovitch, M. (2023). Transcranial magnetic stimulation to the angular gyrus modulates the temporal organization of the hippocampus and entorhinal cortex. Cerebral Cortex, 33(6), 3255-3264'
