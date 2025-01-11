@@ -3,7 +3,7 @@ title: "Temporal encoding strategies result in boosts to final free recall perfo
 collection: publications
 permalink: /publication/2018-09-30-Bouffard_Ekstrom_Mem&Cog_2018
 date: 2018-09-30
-venue: 'Memory &amp; Cognition'
+venue: 'Memory & Cognition'
 paperurl: 'http://nrbouffard.github.io/files/Bouffard_Ekstrom_Mem&Cog_2018.pdf'
 citation: 'Bouffard, N., Stokes, J., Kramer, H. J., Ekstrom, A. D. (2018). Temporal encoding strategies result in boosts to final free recall performance comparable to spatial ones. Memory &amp; Cognition, 46(1), 17-31.'
 ---
