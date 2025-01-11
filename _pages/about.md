@@ -14,6 +14,7 @@ Outside of work I spends my time doing yoga, playing volleyball, cooking elabora
 
 Research Program
 ======
+
 Hippocampal autocorrelation
 ------
 The main focus of my work is developing a novel fMRI analytic technique that measures the neural timescales of individual voxels and using this method to study gradients of neural activity in the brain, particularly the hippocampus. I aim to link the neural gradients I observe with specific aspects of event cognition and event memory.
