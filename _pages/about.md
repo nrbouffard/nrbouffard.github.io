@@ -26,3 +26,4 @@ Effects of boundaries on event memory
 ------
 In a related line of work, I employ a sophisticated behavioral design to examine how events are processed and remembered differently in older vs. younger adults when there is partial or missing information.
 
+![](/images/Fig2.png)
