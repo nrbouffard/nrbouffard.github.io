@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Peer-reviewed publications
-**Bouffard, N.R.**, Barense, M.D., Moscovitch, M. (in prep for submission). Discrete subfields and continuous gradients coexist: A multi-scale view of hippocampal organization. *bioRxiv* [[link]](https://doi.org/10.1101/2023.12.15.571916](https://doi.org/10.1101/2025.08.19.671141)
+**Bouffard, N.R.**, Barense, M.D., Moscovitch, M. (in prep for submission). Discrete subfields and continuous gradients coexist: A multi-scale view of hippocampal organization. *bioRxiv* [[link]](https://doi.org/10.1101/2025.08.19.671141)
 
 **Bouffard, N.R.**, Audrain, S., Golestani, A., Barense, M.D., Moscovitch, M., McAndrews, M.P. (under review). Single voxel autocorrelation reflects hippocampal function in temporal lobe epilepsy. *bioRxiv* [[link]](https://doi.org/10.1101/2023.12.15.571916)
 
