@@ -5,6 +5,12 @@ permalink: /talks/
 author_profile: true
 ---
 
+## Characterizing the intrinsic neural timescales of the human hippocampus. 
+> Cognitive Neuroscience Colloquium, University of California, Berkeley, September 2025, Berkeley, CA
+
+## Characterizing the intrinsic neural timescales of the human hippocampus. 
+> Brain, Behavior, and Cognition Seminar, Washington University in St. Louis, September 2025, St. Louis, MO
+
 ## Hippocampal neural timescales during movie watching are related to gist memory and to age. 
 > Dallas Aging and Cognition Conference, February 2025, Dallas, TX
 
